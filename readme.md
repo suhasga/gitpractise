@@ -1,1 +1,2 @@
-This folder is to practise git commands
+This folder is created to practise git commands
+
